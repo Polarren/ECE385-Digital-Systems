@@ -1,6 +1,6 @@
-# ECE385-final-project-Ximin-Chen-Yuhang-Ren
-I wanna be the zuofu
+# ECE385-final-project: I Wanna Be The Zuofu
+Author: Ximin Chen & Yuhang Ren
 
 Download the program and load in DE2-115
 
-Becoming zuofu and beat the FPGA!
+Becoming Zuofu and beat the FPGA!
